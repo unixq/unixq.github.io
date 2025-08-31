@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://unixq.github.io</id>
+    <title>昨日何</title>
+    <updated>2025-08-31T16:53:35.627Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://unixq.github.io"/>
+    <link rel="self" href="https://unixq.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://unixq.github.io/images/avatar.png</logo>
+    <icon>https://unixq.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, 昨日何</rights>
+    <entry>
+        <title type="html"><![CDATA[2025年3月18日，星期二，晴转多云。]]></title>
+        <id>https://unixq.github.io/post/ce-shi-di-yi-pian-blog/</id>
+        <link href="https://unixq.github.io/post/ce-shi-di-yi-pian-blog/">
+        </link>
+        <updated>2025-03-18T15:55:10.000Z</updated>
+        <content type="html"><![CDATA[<p>很久没有体会到如此充实的一天了。</p>
+<p>早上7点前起床，抢好了7月日语等级考试的座位，付了550元考试费。不过，这次属于第二次考试。</p>
+<p>然后回到被窝睡了会回笼觉，因为胳膊没好，心里依然闷闷不乐。</p>
+<p>8点的闹钟响了三次，第三次挣扎着爬起来，迅速做了快手早餐，烤吐司配拿铁。</p>
+<p>之后，立马赶着9点30和猎头的碰面会，匆忙出门。期间一度忘记带医保卡。</p>
+<p>上午和猎头聊了自己的职场经历、以及打听了后续推荐工作的可能性，感觉最近的职场机会真的很凋零。基本行情面比预想的要差很多，不得已只能边休息找了。</p>
+<p>中午赶回来，顺便在菜场买了点菜下厨。前几天心情差，什么都吃不下，多亏的身边朋友的相劝，同时也庆幸今天猎头给了聊天的机会，让这么久脱离职场的我聊了很久。</p>
+<p>中午吃完饭，稍微休息了下。又立马赶往六院去取核磁报告。一路上风特别大，一度把我的帆布包吹飞。</p>
+<p>核磁的结果，在我看来，不甚理想。我甚至依然很失望。第一时间把报告和图片发给医生、同事和朋友，请求帮忙看看究竟是怎么一回事。得到的反馈却让我很震惊，影像里的结果看着还不错之类。我只能寄希望于本周四去医院门诊，请主任面诊评估一下，期间少不了一些哀怨。</p>
+<p>晚上，参加的邻居的聚餐。硬着头皮吃完了2个小时的晚餐，价格也不便宜。我感觉自己确实不爱和平时不太来往的人社交，自己反倒喜欢安安静静的呆着，哪怕是发呆或者刷刷招聘信息也好</p>
+<p>晚上回到家，依旧是几个电话要回，妈妈的唠叨，朋友的唠叨，我敷衍着，内心想着，有谁会真的在意自己呢？都是爱把自己的想法分享或者是强加给别人。我有想起，前几天想到的，活着真累。不禁又一次叹气。</p>
+<p>晚上初步建好了自己的网站，写完第一篇日记。看来今天又没有实现早睡的目标，还是要加油才行。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://unixq.github.io/post/hello-gridea/</id>
+        <link href="https://unixq.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
